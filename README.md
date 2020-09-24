@@ -1,1 +1,1 @@
-# mydigitalschool-b3-git
+# Sample repository to get started with git
