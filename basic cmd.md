@@ -1,9 +1,9 @@
 git init : initilisation d'un nouveau projet <br/>
-git pull : fusionne le depôt distant avec la branche actuelle
-git add : ajoute des fichiers
-git commit : valide les modifs
-git checkout : permet de changer de branche
-git branch : liste les branches 
-git branch -d : supprime la branche
-git push : envoie les modifications a la branche principale
+git pull : fusionne le depôt distant avec la branche actuelle <br/>
+git add : ajoute des  <br/>
+git commit : valide les modifs <br/>
+git checkout : permet de changer de branche <br/>
+git branch : liste les branches <br/>
+git branch -d : supprime la branche <br/>
+git push : envoie les modifications a la branche principale <br/>
 git clone : clone un repo distant
