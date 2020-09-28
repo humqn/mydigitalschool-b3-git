@@ -12,8 +12,8 @@ git status : montre le statut de la branche <br/>
 git fetch :  importe des commits à partir d'un repo à distance dans le repo local
 
 
-cd : se déplacer dans les répertoires
-ls : connaitre les répertoires et fichiers présents dans le répertoire courant
-. : répertoire courant
-.. : répertoire parent
+cd : se déplacer dans les répertoires <br/>
+ls : connaitre les répertoires et fichiers présents dans le répertoire courant <br/>
+. : répertoire courant <br/>
+.. : répertoire parent <br/>
 
