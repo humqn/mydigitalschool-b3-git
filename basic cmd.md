@@ -3,9 +3,17 @@ git pull : fusionne le depôt distant avec la branche actuelle <br/>
 git add : ajoute des fichiers  <br/>
 git commit : valide les modifs <br/>
 git checkout : permet de changer de branche <br/>
+git checkout -b <name> : permet de créer une branche nommé <name>
 git branch : liste les branches <br/>
 git branch -d : supprime la branche <br/>
 git push : envoie les modifications a la branche principale <br/>
 git clone : clone un repo distant <br/>
 git status : montre le statut de la branche <br/>
 git fetch :  importe des commits à partir d'un repo à distance dans le repo local
+
+
+cd : se déplacer dans les répertoires
+ls : connaitre les répertoires et fichiers présents dans le répertoire courant
+. : répertoire courant
+.. : répertoire parent
+
