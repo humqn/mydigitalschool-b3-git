@@ -3,7 +3,7 @@ git pull : fusionne le depôt distant avec la branche actuelle <br/>
 git add : ajoute des fichiers  <br/>
 git commit : valide les modifs <br/>
 git checkout : permet de changer de branche <br/>
-git checkout -b <name> : permet de créer une branche nommé <name>
+git checkout -b : permet de créer une branche <br/>
 git branch : liste les branches <br/>
 git branch -d : supprime la branche <br/>
 git push : envoie les modifications a la branche principale <br/>
