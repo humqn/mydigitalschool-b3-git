@@ -7,4 +7,5 @@ git branch : liste les branches <br/>
 git branch -d : supprime la branche <br/>
 git push : envoie les modifications a la branche principale <br/>
 git clone : clone un repo distant <br/>
-git status : montre le statut de la branche
+git status : montre le statut de la branche <br/>
+git fetch : sert à récupérer toutes les données des commits effectués sur la branche courante qui n'existent pas encore dans votre version en local
