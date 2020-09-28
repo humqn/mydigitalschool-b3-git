@@ -1,4 +1,4 @@
-git init : initilisation d'un nouveau projet
+git init : initilisation d'un nouveau projet <br/>
 git pull : fusionne le depôt distant avec la branche actuelle
 git add : ajoute des fichiers
 git commit : valide les modifs
