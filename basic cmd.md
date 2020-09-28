@@ -18,5 +18,3 @@ ls : connaitre les répertoires et fichiers présents dans le répertoire couran
 .. : répertoire parent <br/>
 
 TAB : permet de naviguer rapidement parmis les fichiers/dossiers du repertoire lors des actions "git "
-
-coucou yoann
