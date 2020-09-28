@@ -6,4 +6,5 @@ git checkout : permet de changer de branche <br/>
 git branch : liste les branches <br/>
 git branch -d : supprime la branche <br/>
 git push : envoie les modifications a la branche principale <br/>
-git clone : clone un repo distant
+git clone : clone un repo distant <br/>
+git status : montre le statut de la branche
