@@ -19,4 +19,5 @@ ls : connaitre les répertoires et fichiers présents dans le répertoire couran
 
 TAB : permet de naviguer rapidement parmis les fichiers/dossiers du repertoire lors des actions "git "
 
-test yoann
+↑,↓ : permet de naviguer parmis les anciennes commandes rentrées
+ test yoann
